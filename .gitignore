@@ -1,1 +1,5 @@
 file2.txt
+
+# personal files - local files that should not be shared
+# environment variables - local configurations
+#
